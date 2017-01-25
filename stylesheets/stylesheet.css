@@ -17,7 +17,7 @@ body{
 	padding-bottom:10%;
 }
 	
-h1, h2, h3, p, #headlink{
+h1, h2, h3, p{
 	font-family: 'Open Sans', sans-serif;
 	color: #FAFAFA;
 }
@@ -31,6 +31,10 @@ a{
 }
 a:hover { 
     color: #2F3C4E;
+}
+#headlink{
+	font-family: 'Open Sans', sans-serif;
+	color: #FAFAFA;
 }
 h1{
 	font-size:4em;
