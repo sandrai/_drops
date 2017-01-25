@@ -1,9 +1,9 @@
 @charset "utf-8";
 body{
-	background: #61C2F2;
+	background: #FFF;
 	background: linear-gradient(
 		to top,
-		#2AA9E8,
+		#61C2F2,
 		#61C2F2 60%
 	  );
 	background: -webkit-linear-gradient(
